@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'com.example.enetcom.hellotoast'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.enetcom.hellotoast"
